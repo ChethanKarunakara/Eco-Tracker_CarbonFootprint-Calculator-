@@ -42,7 +42,7 @@ Firstly, enter https://carbonfootprintcalculator.streamlit.app/. If the app is a
 
 Click to:
 
-![image](https://github.com/mesutdmn/Carbon-Footprint-Calculator-App/assets/72805471/d53054cb-ea4a-4667-a635-b45e747f7cbe)
+(https://ominous-telegram-wqp59xrgw96hvgj-8502.app.github.dev/)
 
 Once on the page, you'll find five tabs. Begin by filling out the form as shown in the image below:
 
